@@ -1,12 +1,12 @@
 {
-  "movement": [
+  "Yard": [
     {
-      "mid": "01",
-      "mname": "INBOUND"
+      "yid": "01",
+      "yname": "Y1"
     },
     {
-      "mid": "02",
-      "mname": "OUTBOUND"
+      "yid": "02",
+      "yname": "Y2"
     }
   ]
 }
