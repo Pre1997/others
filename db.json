@@ -1,0 +1,11 @@
+{
+  "movement": [
+    {
+      "id": "01",
+      "mname": "INBOUND"
+    },
+    {
+      "mid": "02",
+      "mname": "OUTBOUND"
+    }
+  ],
